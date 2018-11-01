@@ -180,7 +180,7 @@ ssh -i ~/.ssh/cuctom_key_name oak@35.204.41.62
 
 Если вы занимаетесь Data Science, то вам будет необходимо поставить Anaconda и Cuda
 
-Anaconda установить достаточно просто, а как установить CUDA можно почитать [тут] (https://developer.nvidia.com/cuda-90-download-archive?target_os=Linux&target_arch=x86_64&target_distro=Ubuntu&target_version=1604&target_type=debnetwork)
+Anaconda установить достаточно просто, а как установить CUDA можно почитать [тут](https://developer.nvidia.com/cuda-90-download-archive?target_os=Linux&target_arch=x86_64&target_distro=Ubuntu&target_version=1604&target_type=debnetwork)
 
 Если возникают проблемы с запуском jupyter notebook, то стоит установить его через pip и apt-get
 
