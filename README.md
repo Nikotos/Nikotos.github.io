@@ -42,7 +42,7 @@ Tesla P100 как раз таки имеет 10 Терафлопс, у K80 их 
 
 ВАЖНО! Перед тем, как запрашивать карточку в том или ином регионе надо проверить, доступна ли она вообще для данного региона.
 
-Сделать это можно тут [GPUs on Compute Engine | Compute Engine Documentation | Google Cloud](https://cloud.google.com/compute/docs/gpus/)
+Сделать это можно тут https://cloud.google.com/compute/docs/gpus/
 
 Доступные регионы случае с NVIDIA Tesla P100 ![](tutorial/photo11.png)
 
